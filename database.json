@@ -39,7 +39,7 @@
             "hosts": ["Banda Famiglia Sbardellati"],
             "location": 3,
             "soldout": true,
-            "price": 0,
+            "price": 1000,
             "schedule": "Musica dal vivo e intrattenimento per tutta la serata."
           },
           {
