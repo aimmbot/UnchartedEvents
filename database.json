@@ -845,200 +845,398 @@
         "ID": 1,
         "city": "Milano",
         "location": "Teatro la scala",
-        "address": "Via Filodrammatici, 2, 20121 Milano MI"
-      },
-      {
+        "address": "Via Filodrammatici, 2, 20121 Milano MI",
+        "coordinates": [
+            {
+                "lat": "45.467280",
+                "long": "9.188830"
+            }
+        ]
+    },
+    {
         "ID": 2,
         "city": "Milano",
         "location": "Teatro del verme",
-        "address": "Via S. Giovanni sul Muro, 2, 20121 Milano MI"
-      },
-      {
+        "address": "Via S. Giovanni sul Muro, 2, 20121 Milano MI",
+        "coordinates": [
+            {
+                "lat": "45.466730",
+                "long": "9.181420"
+            }
+        ]
+    },
+    {
         "ID": 3,
         "city": "Milano",
         "location": "Fiera di Milano",
-        "address": "Strada Statale Sempione, 28, 20017 Rho MI"
-      },
-      {
+        "address": "Strada Statale Sempione, 28, 20017 Rho MI",
+        "coordinates": [
+            {
+                "lat": "45.539470",
+                "long": "9.037630"
+            }
+        ]
+    },
+    {
         "ID": 4,
         "city": "Milano",
         "location": "Stadio San Siro",
-        "address": "Piazzale Angelo Moratti, 20151 Milano MI"
-      },
-      {
+        "address": "Piazzale Angelo Moratti, 20151 Milano MI",
+        "coordinates": [
+            {
+                "lat": "45.478124",
+                "long": "9.123962"
+            }
+        ]
+    },
+    {
         "ID": 5,
         "city": "Brescia",
         "location": "Teatro grande",
-        "address": "Corso Giuseppe Zanardelli, 9/A, 25121 Brescia BS"
-      },
-      {
+        "address": "Corso Giuseppe Zanardelli, 9/A, 25121 Brescia BS",
+        "coordinates": [
+            {
+                "lat": "45.536572",
+                "long": "10.220969"
+            }
+        ]
+    },
+    {
         "ID": 6,
         "city": "Brescia",
         "location": "Teatro sociale",
-        "address": "Via Felice Cavallotti, 20, 25121 Brescia BS"
-      },
-      {
+        "address": "Via Felice Cavallotti, 20, 25121 Brescia BS",
+        "coordinates": [
+            {
+                "lat": "45.535927",
+                "long": "10.220479"
+            }
+        ]
+    },
+    {
         "ID": 7,
         "city": "Brescia",
         "location": "Brixia forum",
-        "address": "Via Caprera, 5, 25125 Brescia BS"
-      },
-      {
+        "address": "Via Caprera, 5, 25125 Brescia BS",
+        "coordinates": [
+            {
+                "lat": "45.528646",
+                "long": "10.173946"
+            }
+        ]
+    },
+    {
         "ID": 8,
         "city": "Verona",
         "location": "Teatro nuovo",
-        "address": "Piazza Francesco Viviani, 10, 37121 Verona VR"
-      },
-      {
+        "address": "Piazza Francesco Viviani, 10, 37121 Verona VR",
+        "coordinates": [
+            {
+                "lat": "45.442349",
+                "long": "10.998955"
+            }
+        ]
+    },
+    {
         "ID": 9,
         "city": "Verona",
         "location": "Teatro filarmonico",
-        "address": "Via Roma, 3, 37122 Verona VR"
-      },
-      {
+        "address": "Via Roma, 3, 37122 Verona VR",
+        "coordinates": [
+            {
+                "lat": "45.438584",
+                "long": "10.990582"
+            }
+        ]
+    },
+    {
         "ID": 10,
         "city": "Verona",
         "location": "Arena di verona",
-        "address": "P.za Bra, 1, 37121 Verona VR"
-      },
-      {
+        "address": "P.za Bra, 1, 37121 Verona VR",
+        "coordinates": [
+            {
+                "lat": "45.438044",
+                "long": "10.99379"
+            }
+        ]
+    },
+    {
         "ID": 11,
         "city": "Venezia",
         "location": "Teatro la fence",
-        "address": "Campo S. Fantin, 1965, 30124 Venezia VE"
-      },
-      {
+        "address": "Campo S. Fantin, 1965, 30124 Venezia VE",
+        "coordinates": [
+            {
+                "lat": "45.43371",
+                "long": "12.333857"
+            }
+        ]
+    },
+    {
         "ID": 12,
         "city": "Venezia",
         "location": "Teatro Goldoni",
-        "address": "S. Marco, 4650/B, 30124 Venezia VE"
-      },
-      {
+        "address": "S. Marco, 4650/B, 30124 Venezia VE",
+        "coordinates": [
+            {
+                "lat": "45.434829",
+                "long": "12.334025"
+            }
+        ]
+    },
+    {
         "ID": 13,
         "city": "Venezia",
         "location": "Piazza san Marco",
-        "address": "P.za San Marco, 30100 Venezia VE"
-      },
-      {
+        "address": "P.za San Marco, 30100 Venezia VE",
+        "coordinates": [
+            {
+                "lat": "45.434259",
+                "long": "12.338509"
+            }
+        ]
+    },
+    {
         "ID": 14,
         "city": "Torino",
         "location": "Teatro regio",
-        "address": "P.za Castello, 215, 10124 Torino TO"
-      },
+        "address": "P.za Castello, 215, 10124 Torino TO",
+        "coordinates": [
+            {
+                "lat": "45.070697",
+                "long": "7.687492"
+            }
+        ]
+    },
 
-      {
+    {
         "ID": 15,
         "city": "Milano",
         "location": "Teatro la scala",
-        "address": "Via Filodrammatici, 2, 20121 Milano MI"
-      },
-      {
+        "address": "Via Filodrammatici, 2, 20121 Milano MI",
+        "coordinates": [
+            {
+                "lat": "45.467378",
+                "long": "9.188701"
+            }
+        ]
+    },
+    {
         "ID": 16,
         "city": "Milano",
         "location": "Teatro del verme",
-        "address": "Via S. Giovanni sul Muro, 2, 20121 Milano MI"
-      },
-      {
+        "address": "Via S. Giovanni sul Muro, 2, 20121 Milano MI",
+        "coordinates": [
+            {
+                "lat": "45.467247",
+                "long": "9.181057"
+            }
+        ]
+    },
+    {
         "ID": 17,
         "city": "Milano",
         "location": "Fiera di Milano",
-        "address": "Strada Statale Sempione, 28, 20017 Rho MI"
-      },
-      {
+        "address": "Strada Statale Sempione, 28, 20017 Rho MI",
+        "coordinates": [
+            {
+                "lat": "45.467247",
+                "long": "9.181057"
+            }
+        ]
+    },
+    {
         "ID": 18,
         "city": "Milano",
         "location": "Stadio San Siro",
-        "address": "Piazzale Angelo Moratti, 20151 Milano MI"
-      },
-      {
+        "address": "Piazzale Angelo Moratti, 20151 Milano MI",
+        "coordinates": [
+            {
+                "lat": "45.478052",
+                "long": "9.121235"
+            }
+        ]
+    },
+    {
         "ID": 19,
         "city": "Brescia",
         "location": "Teatro grande",
-        "address": "Corso Giuseppe Zanardelli, 9/A, 25121 Brescia BS"
-      },
-      {
+        "address": "Corso Giuseppe Zanardelli, 9/A, 25121 Brescia BS",
+        "coordinates": [
+            {
+                "lat": "45.536572",
+                "long": "10.220969"
+            }
+        ]
+    },
+    {
         "ID": 20,
         "city": "Brescia",
         "location": "Teatro sociale",
-        "address": "Via Felice Cavallotti, 20, 25121 Brescia BS"
-      },
-      {
+        "address": "Via Felice Cavallotti, 20, 25121 Brescia BS",
+        "coordinates": [
+            {
+                "lat": "45.535927",
+                "long": "10.220479"
+            }
+        ]
+    },
+    {
         "ID": 21,
         "city": "Brescia",
         "location": "Brixia forum",
-        "address": "Via Caprera, 5, 25125 Brescia BS"
-      },
-      {
+        "address": "Via Caprera, 5, 25125 Brescia BS",
+        "coordinates": [
+            {
+                "lat": "45.528646",
+                "long": "10.173946"
+            }
+        ]
+    },
+    {
         "ID": 22,
         "city": "Verona",
         "location": "Teatro nuovo",
-        "address": "Piazza Francesco Viviani, 10, 37121 Verona VR"
-      },
-      {
+        "address": "Piazza Francesco Viviani, 10, 37121 Verona VR",
+        "coordinates": [
+            {
+                "lat": "45.442349",
+                "long": "10.998955"
+            }
+        ]
+    },
+    {
         "ID": 23,
         "city": "Verona",
         "location": "Teatro filarmonico",
-        "address": "Via Roma, 3, 37122 Verona VR"
-      },
-      {
+        "address": "Via Roma, 3, 37122 Verona VR",
+        "coordinates": [
+            {
+                "lat": "45.438584",
+                "long": "10.990582"
+            }
+        ]
+    },
+    {
         "ID": 24,
         "city": "Verona",
         "location": "Arena di verona",
-        "address": "P.za Bra, 1, 37121 Verona VR"
-      },
-      {
+        "address": "P.za Bra, 1, 37121 Verona VR",
+        "coordinates": [
+            {
+                "lat": "45.438044",
+                "long": "10.99379"
+            }
+        ]
+    },
+    {
         "ID": 25,
         "city": "Venezia",
         "location": "Teatro la fence",
-        "address": "Campo S. Fantin, 1965, 30124 Venezia VE"
-      },
-      {
+        "address": "Campo S. Fantin, 1965, 30124 Venezia VE",
+        "coordinates": [
+            {
+                "lat": "45.43371",
+                "long": "12.333857"
+            }
+        ]
+    },
+    {
         "ID": 26,
         "city": "Venezia",
         "location": "Teatro Goldoni",
-        "address": "S. Marco, 4650/B, 30124 Venezia VE"
-      },
-      {
+        "address": "S. Marco, 4650/B, 30124 Venezia VE",
+        "coordinates": [
+            {
+                "lat": "45.434829",
+                "long": "12.334025"
+            }
+        ]
+    },
+    {
         "ID": 27,
         "city": "Venezia",
         "location": "Piazza san Marco",
-        "address": "P.za San Marco, 30100 Venezia VE"
-      },
-      {
+        "address": "P.za San Marco, 30100 Venezia VE",
+        "coordinates": [
+            {
+                "lat": "45.434259",
+                "long": "12.338509"
+            }
+        ]
+    },
+    {
         "ID": 28,
         "city": "Torino",
         "location": "Teatro regio",
-        "address": "P.za Castello, 215, 10124 Torino TO"
-      },
-      {
+        "address": "P.za Castello, 215, 10124 Torino TO",
+        "coordinates": [
+            {
+                "lat": "45.070697",
+                "long": "7.687492"
+            }
+        ]
+    },
+    {
         "ID": 29,
         "city": "Torino",
         "location": "Teatro colosseo",
-        "address": "Via Madama Cristina, 71, 10126 Torino TO"
-      },
-      {
+        "address": "Via Madama Cristina, 71, 10126 Torino TO",
+        "coordinates": [
+            {
+                "lat": "45.052334",
+                "long": "7.67932"
+            }
+        ]
+    },
+    {
         "ID": 30,
         "city": "Torino",
         "location": "Mole Antonelliana",
-        "address": "Via Montebello, 20, 10124 Torino TO"
-      },
-      {
+        "address": "Via Montebello, 20, 10124 Torino TO",
+        "coordinates": [
+            {
+                "lat": "45.069106",
+                "long": "7.69297"
+            }
+        ]
+    },
+    {
         "ID": 31,
         "city": "Trento",
         "location": "Teatro sociale",
-        "address": "Via Paolo Oss-Mazzurana, 19, 38122 Trento TN"
-      },
-      {
+        "address": "Via Paolo Oss-Mazzurana, 19, 38122 Trento TN",
+        "coordinates": [
+            {
+                "lat": "",
+                "long": ""
+            }
+        ]
+    },
+    {
         "ID": 32,
         "city": "Trento",
         "location": "Centro Servizi Culturali Santa Chiara",
-        "address": "Via Santa Croce, 67, 38122 Trento TN"
-      },
-      {
+        "address": "Via Santa Croce, 67, 38122 Trento TN",
+        "coordinates": [
+            {
+                "lat": "46.069349",
+                "long": "11.122975"
+            }
+        ]
+    },
+    {
         "ID": 33,
         "city": "Trento",
         "location": "Multisala G. Modena",
-        "address": "Viale S. Francesco d'Assisi, 6, 38122 Trento TN"
-      }
+        "address": "Viale S. Francesco d'Assisi, 6, 38122 Trento TN",
+        "coordinates": [
+            {
+                "lat": "46.069349",
+                "long": "11.122975"
+            }
+        ]
+    }
     ]
 }
